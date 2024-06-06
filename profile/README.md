@@ -10,3 +10,9 @@ Score is a developer-centric and platform-agnostic workload specification. It en
 - [score-compose](https://github.com/score-spec/score-compose) - The reference Score implementation for Docker compose.
 - [score-k8s](https://github.com/score-spec/score-k8s) - The reference Score implementation for Kubernetes.
 - [score-go](https://github.com/score-spec/score-go) - A library for writing Score implementations and tools in Go.
+
+### Contribution Guidelines and Governance
+
+- [Code of conduct](https://github.com/score-spec/spec/blob/main/CODE_OF_CONDUCT.md)
+- General [Contributor Guidelines](https://github.com/score-spec/spec/blob/main/CONTRIBUTING.md) (Some repos may also have additional guidelines)
+- [Governance Model](https://github.com/score-spec/spec/blob/main/GOVERNANCE.md)
