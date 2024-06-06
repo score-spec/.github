@@ -4,8 +4,9 @@ Score is a developer-centric and platform-agnostic workload specification. It en
 
 ### Core repositories
 
-- [schema](https://github.com/score-spec/schema) - The JSON schema document for the Score Specification
-- [spec](https://github.com/score-spec/spec) - The web content for [score.dev](https://score.dev).
+- [spec](https://github.com/score-spec/spec) - The web content for [score.dev](https://score.dev) including the main contribution guidelines and governance.
+- [schema](https://github.com/score-spec/schema) - The JSON schema document for the Score Specification.
 - [docs](https://github.com/score-spec/docs) - The web content for [docs.score.dev](https://docs.score.dev).
 - [score-compose](https://github.com/score-spec/score-compose) - The reference Score implementation for Docker compose.
 - [score-k8s](https://github.com/score-spec/score-k8s) - The reference Score implementation for Kubernetes.
+- [score-go](https://github.com/score-spec/score-go) - A library for writing Score implementations and tools in Go.
