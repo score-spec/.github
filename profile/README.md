@@ -2,9 +2,12 @@
 
 Score is a developer-centric and platform-agnostic workload specification. It ensures consistent configuration between local and remote environments. And it's open source.
 
+Join us in the [#score](https://cloud-native.slack.com/archives/C07DN0D1UCW) channel on the CNCF Slack (<https://slack.cncf.io/>).
+
 ### Core repositories
 
-- [spec](https://github.com/score-spec/spec) - The web content for [score.dev](https://score.dev) including the main contribution guidelines and governance.
+- [spec](https://github.com/score-spec/spec) - The root repository containing contribution and governance guidelines.
+- [score.dev](https://github.com/score-spec/score.dev) - The web content for [score.dev](https://score.dev)
 - [schema](https://github.com/score-spec/schema) - The JSON schema document for the Score Specification.
 - [docs](https://github.com/score-spec/docs) - The web content for [docs.score.dev](https://docs.score.dev).
 - [score-compose](https://github.com/score-spec/score-compose) - The reference Score implementation for Docker compose.
