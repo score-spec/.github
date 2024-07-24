@@ -7,7 +7,7 @@ Join us in the [#score](https://cloud-native.slack.com/archives/C07DN0D1UCW) cha
 ### Core repositories
 
 - [spec](https://github.com/score-spec/spec) - The root repository containing contribution and governance guidelines.
-- [score.dev](https://github.com/score-spec/score.dev) - The web content for [score.dev](https://score.dev)
+- [score.dev](https://github.com/score-spec/score.dev) - The web content for [score.dev](https://score.dev).
 - [schema](https://github.com/score-spec/schema) - The JSON schema document for the Score Specification.
 - [docs](https://github.com/score-spec/docs) - The web content for [docs.score.dev](https://docs.score.dev).
 - [score-compose](https://github.com/score-spec/score-compose) - The reference Score implementation for Docker compose.
