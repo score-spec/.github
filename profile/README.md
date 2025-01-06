@@ -18,3 +18,8 @@ Join us in the [#score](https://cloud-native.slack.com/archives/C07DN0D1UCW) cha
 - [Code of conduct](https://github.com/score-spec/spec/blob/main/CODE_OF_CONDUCT.md)
 - General [Contributor Guidelines](https://github.com/score-spec/spec/blob/main/CONTRIBUTING.md) (Some repos may also have additional guidelines)
 - [Governance Model](https://github.com/score-spec/spec/blob/main/GOVERNANCE.md)
+
+### Maintainer links
+
+- [Open Issues](https://github.com/search?o=desc&q=org%3Ascore-spec++state%3Aopen&s=created&type=issues&state=open)
+- [Open PRs](https://github.com/search?q=org%3Ascore-spec++state%3Aopen&type=pullrequests&state=open&s=created&o=desc)
